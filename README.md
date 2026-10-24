@@ -22,25 +22,6 @@ intelligent-semantic-search-engine/
 └── .gitignore         # Workspace safety configuration rule settings
 ```
 
-## 🛠️ Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com
-   cd intelligent-semantic-search-engine
-   ```
-
-2. **Initialize a virtual environment:**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use: venv\Scripts\activate
-   ```
-
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## 💻 Interactive Execution
 
 To start up the matrix tracking console loop, load the dataset structures, and query the system live inside your execution console, run:

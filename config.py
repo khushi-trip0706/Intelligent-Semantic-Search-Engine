@@ -1,0 +1,3 @@
+LOWERCASE_PROCESSING = True
+DATA_FILE_PATH = "data.txt"
+EXIT_COMMAND = "exit"
